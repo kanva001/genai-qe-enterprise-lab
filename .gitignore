@@ -1,0 +1,26 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+
+# Java / Maven
+target/
+*.log
+
+# Python
+__pycache__/
+.venv/
+venv/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Test artifacts
+artifacts/
+performance/jmeter/results/
+performance/jmeter/reports/
+genai_outputs/

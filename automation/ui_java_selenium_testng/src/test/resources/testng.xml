@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="QE Smoke Suite" verbose="1" parallel="false">
+  <test name="UI Smoke">
+    <classes>
+      <class name="qe.ui.SauceDemoSmokeTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,4 @@
+You are analyzing incident tickets.
+Cluster incidents by behavioral pattern (not error text) and produce:
+pattern_name, description, impacted_flows[], suggested_tests[].
+Output strictly valid JSON.
